@@ -13,7 +13,7 @@ My work is across backend development, cybersecurity tooling and cloud-native de
 </p>
 
 <p>
-Below are my favourite or frequently used languages and tools
+Below are my favourite or frequently used languages and tools:
 </p>
 
 <h2>🧰 Tech Stack</h2>
@@ -23,10 +23,17 @@ Below are my favourite or frequently used languages and tools
 <img align="left" width="60px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" width="60px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 <img align="left" width="60px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<br>
-<br>
-<br>
-<br>
+<br><br><br><br>
+
+<h3>Scripting</h3>
+<img align="left" width="60px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<img align="left" width="60px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" />
+<br><br><br><br>
+
+<h3>Operating Systems</h3>
+<img align="left" width="60px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" width="60px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
+<br><br><br><br>
 
 <h3>DevSecOps & Containerisation</h3>
 <img align="left" width="60px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
@@ -38,8 +45,7 @@ Below are my favourite or frequently used languages and tools
 <img align="left" width="60px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 <img align="left" width="60px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />
 <img align="left" width="60px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-<img width="60px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-<br>
+<br><br><br><br>
 
 <h3>GitOps & CI/CD</h3>
 <img align="left" width="60px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
@@ -48,5 +54,5 @@ Below are my favourite or frequently used languages and tools
 <br>
 
 <p>
-Always hacking, automating, and learning new things everyday
+Always hacking, automating, and learning new things every day.
 </p>
