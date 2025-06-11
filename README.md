@@ -28,7 +28,7 @@ Below are my favourite or frequently used languages and tools
 <br>
 <br>
 
-<h3>DevSecOps & Containerization</h3>
+<h3>DevSecOps & Containerisation</h3>
 <img align="left" width="60px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 <img align="left" width="60px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
 <img width="60px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
