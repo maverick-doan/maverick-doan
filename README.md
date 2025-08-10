@@ -22,30 +22,30 @@ Below are my favourite or frequently used languages and tools:
 <img align="left" width="60px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
 <img align="left" width="60px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" width="60px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-<img align="left" width="60px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<br><br><br><br>
+<img width="60px" style="padding:5px;" src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.17.0/icons/typescript/typescript-original.svg" />
+<br>
 
 <h3>Scripting</h3>
 <img align="left" width="60px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<img align="left" width="60px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" />
-<br><br><br><br>
+<img width="60px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" />
+<br>
 
 <h3>Operating Systems</h3>
 <img align="left" width="60px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" width="60px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
-<br><br><br><br>
+<img width="60px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
+<br>
 
-<h3>DevSecOps & Containerisation</h3>
+<h3>DevOps</h3>
 <img align="left" width="60px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 <img align="left" width="60px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
 <img width="60px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <br>
 
 <h3>Databases</h3>
-<img align="left" width="60px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+<img align="left" width="60px" style="padding:5px;" src="https://github.com/devicons/devicon/raw/refs/tags/v2.17.0/icons/mongodb/mongodb-original.svg" />
 <img align="left" width="60px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />
-<img align="left" width="60px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-<br><br><br><br>
+<img width="60px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+<br>
 
 <h3>GitOps & CI/CD</h3>
 <img align="left" width="60px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
@@ -53,6 +53,12 @@ Below are my favourite or frequently used languages and tools:
 <img width="60px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" />
 <br>
 
+<h3>Cloud Platforms</h3>
+<img width="60px" style="padding:5px;" src="https://github.com/devicons/devicon/raw/refs/tags/v2.17.0/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+<br>
+
 <p>
-Always hacking, automating, and learning new things every day.
+Always hacking, automating, and learning new things every day. 
+
+<i>I don't just get things done, but always looking for ways to improve how they’re done.</i>
 </p>
