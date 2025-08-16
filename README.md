@@ -53,8 +53,9 @@ Below are my favourite or frequently used languages and tools:
 <img width="60px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" />
 <br>
 
-<h3>Cloud Platforms</h3>
-<img width="60px" style="padding:5px;" src="https://github.com/devicons/devicon/raw/refs/tags/v2.17.0/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+<h3>Cloud Platforms & IaC</h3>
+<img align="left" width="60px" style="padding:5px;" src="https://github.com/devicons/devicon/raw/refs/tags/v2.17.0/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+<img width="60px" style="padding:5px;" src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.17.0/icons/terraform/terraform-original.svg" />
 <br>
 
 <p>
