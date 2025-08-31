@@ -1,7 +1,7 @@
 <h1>👋 Hi there! I'm Maverick</h1>
 
 <p>
-Cybersecurity Specialist | Software Developer
+Technical Cybersecurity Specialist | Software Engineer (Backend-focused)
 </p>
 <p>
 Currently working at <strong>RightSec</strong> · Studying <strong>Computer Science</strong> at <strong>QUT</strong>
