@@ -4,7 +4,7 @@
 Technical Cybersecurity Specialist | Software Engineer (Backend-focused)
 </p>
 <p>
-Currently working at <strong>RightSec</strong> · Studying <strong>Computer Science</strong> at <strong>QUT</strong>
+Currently working at <strong>(to be announced soon)</strong> · Studying <strong>Computer Science</strong> at <strong>QUT</strong>
 </p>
 
 <p>
