@@ -1,10 +1,10 @@
 <h1>👋 Hi there! I'm Maverick</h1>
 
 <p>
-Technical Cybersecurity Specialist | Software Engineer (Backend-focused)
+Offensive Security Specialist | Software Engineer (Backend-focused)
 </p>
 <p>
-Currently working at <strong>(to be announced soon)</strong> · Studying <strong>Computer Science</strong> at <strong>QUT</strong>
+Currently working at <strong>Division 5 Pty Ltd</strong> · Studying <strong>Computer Science</strong> at <strong>QUT</strong>
 </p>
 
 <p>
