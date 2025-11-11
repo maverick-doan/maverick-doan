@@ -8,7 +8,7 @@ Currently working at <strong>Division 5 Pty Ltd</strong> · Studying <strong>Com
 </p>
 
 <p>
-I build systems and automations for SOC & GRC operations.  
+I build systems and automations for red/blue team operations.  
 My work is across backend development, cybersecurity tooling and cloud-native deployments.
 </p>
 
