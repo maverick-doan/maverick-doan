@@ -1,12 +1,12 @@
 <h1>👋 Hi there! I'm Maverick</h1>
 
-Offensive Security Specialist | Software Engineer (Backend-focused) | Platform / Supply Chain Security
+Offensive Security Engineer | Platform / Supply Chain Security
 
-Currently working at **Division 5 Pty Ltd** - a cybersecurity consultancy firm based in Brisbane, Australia.
+Currently working as a Senior Application Security Engineer at **LEAP Legal Software Pty Ltd**
 
 My focus: 
 - Application Security (AppSec) - web applications, desktop, API, mobile, etc.
-- DevSecOps, Platform, Supply Chain Security
+- DevSecOps, Supply Chain Security
 - Cloud Security
 - SSDLC
 
