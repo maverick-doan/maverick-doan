@@ -6,15 +6,9 @@ Currently working as a Senior Application Security Engineer at **LEAP Legal Soft
 
 My focus: 
 - Application Security (AppSec) - web applications, desktop, API, mobile, etc.
-- DevSecOps, Supply Chain Security
+- DevSecOps, Supply Chain Security, SSDLC
 - Cloud Security
-- SSDLC
-
-Currently expanding towards AI integration into security operations and penetration testing. Also, improving on Active Directory and internal infrastructure penetration test.
-
-Besides my primary work in offsec, I build systems and automations for red/blue team operations. My work is also across backend development, cybersecurity tooling and cloud deployments.
-
-In my own time, sometimes bug bounty... sometimes working on my personal software project.
+- AI Security
 
 Below are my favourite or frequently used (through both software development and security work) technology stack:
 
