@@ -54,7 +54,7 @@ Below are my favourite or frequently used (through both software development and
 <br>
 
 <h3>Cloud Platforms & IaC</h3>
-<img align="left" width="60px" style="padding:5px;" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+<img align="left" width="60px" style="padding:5px;" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/amazonwebservices/amazonwebservices-original.svg" />
 <img align="left" width="60px" style="padding:5px;" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/azure/azure-original.svg" />
 <img width="60px" style="padding:5px;" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/terraform/terraform-original.svg" />
 <br>
